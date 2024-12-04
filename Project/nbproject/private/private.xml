@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/Project.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/frontEnd/Login.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/entity/Funcionario.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/view/TelaInicial.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/DAO/ConexaoDAO.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/frontEnd/AdminEstoque.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/frontEnd/TelaInicial.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/entity/Inventario.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/DAO/InventarioDAO.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/frontEnd/TelaAdmin.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/view/TelaLogin.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/DAO/FuncionarioDAO.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/frontEnd/AdminUsuarios.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/DTO/FuncionarioDTO.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/DTO/InventarioDTO.java</file>
+            <file>file:/C:/Users/Nomewixuo/Downloads/Project/src/project/view/Inventario.java</file>
+        </group>
+    </open-files>
+</project-private>
